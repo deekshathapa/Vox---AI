@@ -1,6 +1,7 @@
 
-websockets
-sympy
-requests
 flask
+websockets
+requests
+sympy
 wikipedia
+pyjokes
